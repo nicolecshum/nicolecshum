@@ -1,8 +1,10 @@
 ### Hello 👋
 
-I am currently a third-year Applied Statistics and Biological Sciences double major seeking opportunities to gain experience in data science and applied research. I have a strong interest in statistical data science, biotechnology, and biomedical research but am interested in all biological sciences. I am passionate, detail-oriented, and skilled at collaboration with coworkers alongside a strong work ethic and ability to be flexible. :smile:
+I am currently a third-year Applied Statistics and Biological Sciences double major at UC Davis seeking opportunities to gain experience in data science and applied research. 
 
 - 🔭 I’m currently working on building my skills with Python, R, and SQL, primarily at UC Davis, supplemented by online courses like Codecademy.
+- 🌱 I’m interested in statistical data science, biotechnology, and applied research.
+- 👯 I consider myself passionate and detail-oriented, alongside a strong work ethic and ability to be flexible.
 - 📫 How to reach me: ncshum@ucdavis.edu or nicolecshum@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I own two frogs and two toads :frog:	
