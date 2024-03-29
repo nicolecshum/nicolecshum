@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hello 👋
+
+I am currently a third-year Applied Statistics and Biological Sciences double major seeking opportunities to gain experience in data science and applied research. I have a strong interest in statistical data science, biotechnology, and biomedical research but am interested in all biological sciences. I am passionate, detail-oriented, and skilled at collaboration with coworkers alongside a strong work ethic and ability to be flexible. :smile:
+
+- 🔭 I’m currently working on building my skills with Python, R, and SQL, primarily at UC Davis, supplemented by online courses like Codecademy.
+- 📫 How to reach me: ncshum@ucdavis.edu or nicolecshum@gmail.com
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I own two frogs and two toads :frog:	
 
 <!--
 **nicolecshum/nicolecshum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
