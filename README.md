@@ -1,5 +1,7 @@
 ### Hello 👋
 
+[![Nicole's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolcshum&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
+
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolecshum&theme=omni" />
 
 I am currently a third-year Applied Statistics and Biological Sciences double major at UC Davis seeking opportunities to gain experience in data science and applied research. 
