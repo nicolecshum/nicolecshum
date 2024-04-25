@@ -1,6 +1,6 @@
 ### Hello 👋
 
-[![Nicole's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolcshum&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
+[![Nicole's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolecshum&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolecshum&theme=omni" />
 
