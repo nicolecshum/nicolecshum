@@ -1,7 +1,5 @@
 ### Hello 👋
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolecshum&theme=omni&layout=compact" />
-
 I am currently a fourth-year Applied Statistics and Biological Sciences double major at UC Davis seeking opportunities to gain experience in data science and applied research. 
 
 - 🔭 I’m currently working on building my skills with Python, R, and SQL, primarily at UC Davis, supplemented by online courses like Codecademy.
