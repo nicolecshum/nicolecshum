@@ -1,5 +1,3 @@
-### Hello :3
-
 avid data science & biostatistics enthusiast! 
 
 b.s. statistics @ university of california, davis &
