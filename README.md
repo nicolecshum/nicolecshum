@@ -1,6 +1,6 @@
 avid data science & biostatistics enthusiast! 
 
-b.s. statistics @ university of california, davis &
+b.s. statistics &
 b.s. biological sciences @ university of california, davis
 
 n(°︿°)n
