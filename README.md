@@ -5,7 +5,7 @@ avid data science & biostatistics enthusiast!
 b.s. statistics @ university of california, davis &
 b.s. biological sciences @ university of california, davis
 
-_(°︿°)_
+n(°︿°)n
 
 <!--
 **nicolecshum/nicolecshum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
