@@ -1,4 +1,4 @@
-avid data science & biostatistics enthusiast! 
+actuarial analyst :P
 
 b.s. statistics &
 b.s. biological sciences @ university of california, davis
